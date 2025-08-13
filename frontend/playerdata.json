@@ -1,0 +1,16 @@
+{
+  "messi": {
+    "goals": 30,
+    "shots": 70,
+    "height": "1.70 m",
+    "weight": "72 kg",
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/big/28003-1695137880.jpg"
+  },
+  "ronaldo": {
+    "goals": 25,
+    "shots": 60,
+    "height": "1.87 m",
+    "weight": "83 kg",
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/big/8198-1695137880.jpg"
+  }
+}
